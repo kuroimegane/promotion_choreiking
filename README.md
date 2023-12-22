@@ -11,7 +11,7 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 ## 애플리케이션 연동
 ![11e48a95ef282ca912c3de9d477c01de_1703060373_9871.png](https://gogotak.com/data/editor/2312/11e48a95ef282ca912c3de9d477c01de_1703060373_9871.png)
 > **Note:** **초레이킹**을 구입하셨다면 반드시 다운로드하여 사용하시기를 권장드립니다.
->> <a href="https://play.google.com/store/apps/details?id=com.gogotak.pingpongfit&hl=ko-KR" target="_blank">안드로이드</a> 
+>> <a href="https://play.google.com/store/apps/details?id=com.gogotak.pingpongfit&hl=ko-KR" target="_blank">안드로이드</a>
 >> <a href="https://apps.apple.com/kr/app/%ED%95%91%ED%90%81%ED%95%8F-pingpongfit/id6469293807" target="_blank">아이폰</a>
 
 -   **초레이킹**의 전용 애플리케이션인 **핑퐁핏**과 연동됩니다.
