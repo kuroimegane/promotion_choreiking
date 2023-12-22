@@ -10,16 +10,18 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 
 ## 애플리케이션 연동
 ![11e48a95ef282ca912c3de9d477c01de_1703060373_9871.png](https://gogotak.com/data/editor/2312/11e48a95ef282ca912c3de9d477c01de_1703060373_9871.png)
-> 안드로이드 https://play.google.com/store/apps/details?id=com.gogotak.pingpongfit&hl=ko-KR
-> 아이폰 https://apps.apple.com/kr/app/%ED%95%91%ED%90%81%ED%95%8F-pingpongfit/id6469293807
+> **Note:** **초레이킹**을 구입하셨다면 반드시 다운로드하여 사용하시기를 권장드립니다.
+>> <a href="https://play.google.com/store/apps/details?id=com.gogotak.pingpongfit&hl=ko-KR" target="_blank">안드로이드</a> 
+>> <a href="https://apps.apple.com/kr/app/%ED%95%91%ED%90%81%ED%95%8F-pingpongfit/id6469293807" target="_blank">아이폰</a>
 
 -   **초레이킹**의 전용 애플리케이션인 **핑퐁핏**과 연동됩니다.
 -   탁구 스윙에 관련된 데이터를 시각적으로 제공하여 사용자가 개선할 부분을 식별할 수 있습니다.
 
 ## 대회 수준의 라켓 성능
 ![卓球のイラスト（男性） | かわいいフリー素材集 いらすとや](https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6IpevJMMMcq7G0E6AZjNLs2Dyk8ztWGj6o2Sm3b9DQ6zB1RILDKjvKYlVh888WuM7qcpm6SOnFlGA_WwEoGJCIyOylWFmMFKXuLoNniwaxSZlWiQm4INxEnfle4JdbDHZC71DIt0g2cd1FRknyj5Dp3wFScKcACJNNRf4xeIaFxYAHLzAezXzi41RkTML7b3KkO9gIRa2fxqLlYsFJNllhjJPD8d_954sIfL_9yYXN94bzOiJyShF3G-0FlQnF5GELxAHaoBWOBdkYexwMMb_2JnWkWbR9-TJ-LLG1q1mKnslIsjnLdrvYgaJ-4ysTcPgBuApUVnm5pnR6AHFkqiZZfaAWlwoaIEcPS5y7-fEzPLVnEkT-h3jsNdPx-uMgLuOFiYhkx8K5wonpikptA2yk=/takkyu_tabletennis_man.png?errorImage=false)
--   **초레이킹**은 고급 소재와 디자인을 통해 탁구 경기에서 뛰어난 성능을 제공합니다.
--   기존 탁구 라켓과 비교했을 때, 탁구 경기에서도 우수한 성과를 발휘합니다.
+- **초레이킹**은 고급 소재와 심플한 디자인으로 고급스러운 이미지를 살렸습니다.
+- 기존 탁구 라켓들과 비교했을 때에도 뒤떨어지지 않는 성능을 보여줍니다.
+- ITTF의 라켓 심의를 통과하여 실제 탁구 경기에서도 사용이 가능합니다.
 
 ## 데이터 기록 및 분석
 ![](https://1.bp.blogspot.com/-nsC64UqOo1c/XWS5bD8bJjI/AAAAAAABUSE/Gg8ccLHfpi858CW7FQxDt4eLbbJyH6QRQCLcBGAs/s1600/document_data_bunseki.png)
@@ -34,7 +36,7 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 
 2.  실전 경기에서 우수한 성능
 
--   대회나 클럽에서도 **초레이킹** 라켓을 사용하면 일반 라켓과 동등한 혹은 더 높은 성능을 발휘할 수 있습니다.
+-   **초레이킹** 라켓은 대회나 클럽에서 사용해도 일반 라켓과 동등하거나 혹은 더 높은 성능을 발휘할 수 있습니다.
 
 3.  데이터를 통한 성장
 
@@ -47,13 +49,14 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 
 # 제품 구성
 ![53658415e8f49e1f041530e0714f61a7_1703142209_8258.jpg](https://gogotak.com/data/editor/2312/53658415e8f49e1f041530e0714f61a7_1703142209_8258.jpg)
-> 초레이킹 라켓1개, USB충전케이블​, 사용자매뉴얼, 제품 케이스
+> 초레이킹 라켓1개, USB충전케이블​, 사용자매뉴얼, 케이스
+
  
 ## 규격
 
 그립 크기(L x W x H)
 
-FL : 100x25x33mm ST: 100x23x29mm
+FL : 100x25x33mm, ST: 100x23x29mm
 
 평균 무게 : 85~96g
 
@@ -63,23 +66,21 @@ FL : 100x25x33mm ST: 100x23x29mm
 
 ## ALC, ZLC, CARBON 세 종류의  고급형 셰이크(FL, ST)
 
-![초레이킹 조립식 라켓 + 러버 1매](https://gogotak.com/data/item/1702952219/alc1.jpg) 
-**ALC**
-![초레이킹 조립식 라켓 + 러버 1매](https://gogotak.com/data/item/1702952219/zlc1.jpg)
-**ZLC**
-![초레이킹 조립식 라켓 + 러버 1매](https://gogotak.com/data/item/1702952219/carbon1.jpg)
-**CARBON**
+|**ALC**|**ZLC**|**CARBON**|
+|:-:|:-:|:-:|
+|<img src="https://gogotak.com/data/item/1702952219/alc1.jpg" width="400px" height="400px" title="ALC"/>|<img src="https://gogotak.com/data/item/1702952219/zlc1.jpg" width="400px" height="400px" title="ZLC"/>|<img src="https://gogotak.com/data/item/1702952219/carbon1.jpg" width="400px" height="400px" title="CARBORN"/>|
+
 1. 세 종류의 블레이드(ALC, ZLC, CARBON)를 지원합니다.
 2. 두 종류의 그립(FL, ST)을 지원합니다.
 
 ## 조립식 라켓의 특징
 
-고고탁이 개발한 조립식 라켓 **초레이킹**은 아래와 같은 특징을 가지고 있습니다.
+고고탁이 개발한 조립식 라켓 **초레이킹**은 다음과 같은 특징을 가지고 있습니다.
 
-- 특수한 소재 사용으로 반발력이 증가합니다.
-- 땀이 나더라도 목재 그립처럼 더러워지지 않는 위생적인 그립이 특징입니다.
+- 특수한 소재 사용하여 반발력이 한층 업그레이드되었습니다.
+- 땀이 나면 더러워 지는 목재 그립과 다르게 폴리카보네이트 제질의 그립을 채택하여 위생적입니다.
 
-> **Note:** 일반 목재 그립의 **초레이킹**을 원하시는 분은 별도로 문의 하시기 바랍니다.
+> **Note:** 일반 목재 그립의 **초레이킹**을 원하시는 분은 별도로 문의 바라며, 추가 금액이 발생할 수 있습니다.
 
 # 이런 분들에게 추천합니다
 
