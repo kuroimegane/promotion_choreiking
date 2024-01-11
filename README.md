@@ -18,15 +18,14 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 -   탁구 스윙에 관련된 데이터를 시각적으로 제공하여 사용자가 개선할 부분을 식별할 수 있습니다.
 
 ## 대회 수준의 라켓 성능
-![image](https://github.com/kuroimegane/promotion_choreiking/assets/7899196/4ce59a98-6ccc-463a-95fa-e7715e579be1)
-
+![image](https://github.com/kuroimegane/promotion_choreiking/assets/7899196/7b01add6-b23d-44d6-a008-bfd75721af94)
 
 - **초레이킹**은 고급 소재와 심플한 디자인으로 고급스러운 이미지를 살렸습니다.
 - 기존 탁구 라켓들과 비교했을 때에도 뒤떨어지지 않는 성능을 보여줍니다.
 - 실제 탁구 경기에서도 사용이 가능합니다.
 
 ## 데이터 기록 및 분석
-![Uploading image.png…]()
+![image](https://github.com/kuroimegane/promotion_choreiking/assets/7899196/d17e798c-231e-4d69-a32f-9f081eef1fc9)
 
 -   **핑퐁핏** 애플리케이션은 탁구 스윙과 관련된 데이터를 자동으로 기록합니다.
 -   그래프 및 통계를 통해 사용자에게 직관적으로 제공하여 성장과 발전을 도모합니다.
