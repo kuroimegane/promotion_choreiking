@@ -18,13 +18,16 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 -   탁구 스윙에 관련된 데이터를 시각적으로 제공하여 사용자가 개선할 부분을 식별할 수 있습니다.
 
 ## 대회 수준의 라켓 성능
-![卓球のイラスト（男性） | かわいいフリー素材集 いらすとや](https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6IpevJMMMcq7G0E6AZjNLs2Dyk8ztWGj6o2Sm3b9DQ6zB1RILDKjvKYlVh888WuM7qcpm6SOnFlGA_WwEoGJCIyOylWFmMFKXuLoNniwaxSZlWiQm4INxEnfle4JdbDHZC71DIt0g2cd1FRknyj5Dp3wFScKcACJNNRf4xeIaFxYAHLzAezXzi41RkTML7b3KkO9gIRa2fxqLlYsFJNllhjJPD8d_954sIfL_9yYXN94bzOiJyShF3G-0FlQnF5GELxAHaoBWOBdkYexwMMb_2JnWkWbR9-TJ-LLG1q1mKnslIsjnLdrvYgaJ-4ysTcPgBuApUVnm5pnR6AHFkqiZZfaAWlwoaIEcPS5y7-fEzPLVnEkT-h3jsNdPx-uMgLuOFiYhkx8K5wonpikptA2yk=/takkyu_tabletennis_man.png?errorImage=false)
+![image](https://github.com/kuroimegane/promotion_choreiking/assets/7899196/4ce59a98-6ccc-463a-95fa-e7715e579be1)
+
+
 - **초레이킹**은 고급 소재와 심플한 디자인으로 고급스러운 이미지를 살렸습니다.
 - 기존 탁구 라켓들과 비교했을 때에도 뒤떨어지지 않는 성능을 보여줍니다.
 - 실제 탁구 경기에서도 사용이 가능합니다.
 
 ## 데이터 기록 및 분석
-![](https://1.bp.blogspot.com/-nsC64UqOo1c/XWS5bD8bJjI/AAAAAAABUSE/Gg8ccLHfpi858CW7FQxDt4eLbbJyH6QRQCLcBGAs/s1600/document_data_bunseki.png)
+![Uploading image.png…]()
+
 -   **핑퐁핏** 애플리케이션은 탁구 스윙과 관련된 데이터를 자동으로 기록합니다.
 -   그래프 및 통계를 통해 사용자에게 직관적으로 제공하여 성장과 발전을 도모합니다.
 
