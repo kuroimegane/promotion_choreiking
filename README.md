@@ -46,9 +46,9 @@ IoT 센서가 탑재되어 있는 **초레이킹**은 전용 애플리케이션�
 
 
 # 제품 구성
-![53658415e8f49e1f041530e0714f61a7_1703142209_8258.jpg](https://gogotak.com/data/editor/2312/53658415e8f49e1f041530e0714f61a7_1703142209_8258.jpg)
-> 초레이킹 라켓1개, USB충전케이블​, 사용자매뉴얼, 케이스
-
+|**초레이킹 라켓**|**USB 충전 케이블​**|**사용자 매뉴얼**|
+|:-:|:-:|:-:|
+|<img src="https://github.com/kuroimegane/promotion_choreiking/blob/main/racket.png"/>|<img src="https://github.com/kuroimegane/promotion_choreiking/blob/main/cable.png"/>|<img src="https://github.com/kuroimegane/promotion_choreiking/blob/main/manual.png"/>|
  
 ## 규격
 
