@@ -66,7 +66,7 @@ FL : 100x25x33mm, ST: 100x23x29mm
 
 |**AL-C 타입**|**ZL-C 타입**|**CARBON 타입**|
 |:-:|:-:|:-:|
-|<img src="https://gogotak.com/data/item/1702952219/alc1.jpg" width="400px" height="400px" title="ALC"/>|<img src="https://gogotak.com/data/item/1702952219/zlc1.jpg" width="400px" height="400px" title="ZLC"/>|<img src="https://gogotak.com/data/item/1702952219/carbon1.jpg" width="400px" height="400px" title="CARBORN"/>|
+|<img src="https://github.com/kuroimegane/promotion_choreiking/blob/main/alc.jpg"/>|<img src="https://github.com/kuroimegane/promotion_choreiking/blob/main/zlc.jpg"/>|<img src="https://github.com/kuroimegane/promotion_choreiking/blob/main/carbon.jpg"/>|
 
 1. 세 종류의 블레이드(AL-C, ZL-C, CARBON)를 지원합니다.
 2. 두 종류의 그립(FL, ST)을 지원합니다.
