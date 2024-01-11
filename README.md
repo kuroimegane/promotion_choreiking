@@ -64,7 +64,7 @@ FL : 100x25x33mm, ST: 100x23x29mm
 
 ## AL-C, ZL-C, CARBON 세 종류의  고급형 셰이크(FL, ST)
 
-|**AL-C**|**ZL-C**|**CARBON**|
+|**AL-C 타입**|**ZL-C 타입**|**CARBON 타입**|
 |:-:|:-:|:-:|
 |<img src="https://gogotak.com/data/item/1702952219/alc1.jpg" width="400px" height="400px" title="ALC"/>|<img src="https://gogotak.com/data/item/1702952219/zlc1.jpg" width="400px" height="400px" title="ZLC"/>|<img src="https://gogotak.com/data/item/1702952219/carbon1.jpg" width="400px" height="400px" title="CARBORN"/>|
 
